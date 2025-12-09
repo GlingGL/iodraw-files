@@ -48,9 +48,9 @@
           <mxGeometry x="540" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f4H3fqIzND8iwCpzQOcn-12" value="支付成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="705" width="80" height="80" as="geometry" />
+          <mxGeometry x="270" y="750" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f4H3fqIzND8iwCpzQOcn-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f4H3fqIzND8iwCpzQOcn-14" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
