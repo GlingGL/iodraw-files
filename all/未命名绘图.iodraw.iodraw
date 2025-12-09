@@ -38,14 +38,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f4H3fqIzND8iwCpzQOcn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="f4H3fqIzND8iwCpzQOcn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f4H3fqIzND8iwCpzQOcn-7" target="f4H3fqIzND8iwCpzQOcn-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="359.9965217391305" y="279.9965217391307" as="sourcePoint" />
             <mxPoint x="420.04" y="960.04" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="370" />
               <mxPoint x="420" y="370" />
+              <mxPoint x="420" y="1090" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f4H3fqIzND8iwCpzQOcn-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f4H3fqIzND8iwCpzQOcn-26">
+          <mxGeometry x="-0.8946" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f4H3fqIzND8iwCpzQOcn-7" value="登录成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
